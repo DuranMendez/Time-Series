@@ -1,0 +1,12 @@
+The timeline for the project as follows:
+Selecting the dataset: Due by 4/4
+Complete Introduction and literature review: Due 4/11
+Complete First and Secondary Analysis: Due 4/18
+Complete Conclusion: Due 4/25
+Finalized the report and submit: Due 5/2
+
+
+Dataset: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+
+
+Helpful material: https://people.duke.edu/~rnau/411home.htm
