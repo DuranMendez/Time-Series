@@ -4,7 +4,9 @@ A study on inflation based on the consumer price index in the United States. Spr
 To view the project, go to the main portfolio page in the contact section.
 
 
-Contact:
+
+
+**Contact**
 
 Murpys D. Mendez
 
