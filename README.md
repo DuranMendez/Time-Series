@@ -2,13 +2,13 @@
 
 A study on inflation using the Consumer Price Index (CPI) in the United States (Spring 2025).  
 
-To view all projects, please visit the main portfolio page in the **Contact** section below.
+[View Report](https://duranmendez.github.io/Time-Series/Project_Report.pdf)
+
+
 
 ---
 
 ## 📫 Contact
 
 **Murpys D. Mendez**  
-murpys@gmail.com  
-
-[Portfolio Website](https://duranmendez.github.io/Data-Science-Portfolio/)
+murpys@gmail.com
