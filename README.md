@@ -1,6 +1,8 @@
-# A Time Series Analysis of Inflation Based on Consumer Price Index
+## A Time Series Analysis of Inflation Based on Consumer Price Index
 
-The sustained rise in prices over time, significantly influences economic policy and financial decisions. Analyzing its patterns through data enables researchers and policymakers to identify trends, evaluate stability, and anticipate future movements. This report uses time series methods to examine inflation dynamics through a comparison between the trends of inflation in Canada and the Unitaed States.
+The sustained rise in prices over time, significantly influences economic policy and financial decisions.  
+Analyzing its patterns through data enables researchers and policymakers to identify trends and anticipate future movements.  
+This report uses time series methods to examine inflation dynamics through a comparison between the trends of inflation in Canada and the Unitaed States.
 
 ## Models studied  
 - AR
