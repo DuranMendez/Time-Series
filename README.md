@@ -10,7 +10,7 @@ This report uses time series methods to examine inflation dynamics through a com
 - ARMA()
 - ARIMA()
 
-## Libraries used (R)  
+## R Libraries used  
 - TSA
 - lmtest
 - itsmr
